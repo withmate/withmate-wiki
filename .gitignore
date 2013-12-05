@@ -6,7 +6,7 @@ wiki/*.ipr
 wiki/*.iws
 wiki/settings/*
 wiki/projectFilesBackup/*
-
+.bak
 
 
 

@@ -1,0 +1,15 @@
+### IDE Ignore ###
+wiki/.classpath
+wiki/.project
+wiki/*.iml
+wiki/*.ipr
+wiki/*.iws
+wiki/settings/*
+wiki/projectFilesBackup/*
+
+
+
+
+
+### target folder Ignore ###
+**/target/*
